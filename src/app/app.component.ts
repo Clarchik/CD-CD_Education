@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Dog } from './classes/animal';
 
 @Component({
     selector: 'app-root',

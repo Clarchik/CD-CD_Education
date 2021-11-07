@@ -27,7 +27,7 @@ abstract class Animal implements AnimalI {
     }
 }
 
-class Dog extends Animal {
+export class Dog extends Animal {
     constructor(private dogName: string, private dogDenger: string) {
         super(dogName, dogDenger);
     }
