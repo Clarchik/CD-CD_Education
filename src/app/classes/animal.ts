@@ -23,7 +23,7 @@ abstract class Animal implements AnimalI {
     }
 
     public voice(): void {
-        console.log('VOICEs');
+        console.log('VOICEstt');
     }
 }
 
