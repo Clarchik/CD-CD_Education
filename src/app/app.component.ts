@@ -10,6 +10,6 @@ export class AppComponent {
     title = 'SoftServeEducation';
 
     constructor() {
-        const dog = new Dog('Olly', 'Male');
+        const dog = new Dog('Ollys', 'Male');
     }
 }
